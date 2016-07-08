@@ -46,6 +46,12 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# Build directories
+Binaries
+Static Libraries
+Dynamic Libraries
+Intermediate
+
 #Visual Studio 2012 stuff
 *.suo
 *.sdf
